@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula 5</string>
+    <string name="tempogasto">TEMPOGASTO</string>
+    <string name="velocidademedia">VELOCIDADEMEDIA</string>
+    <string name="rendimentoveiculo">RENDIMENTOVEICULO</string>
+    <string name="distancia">DISTANCIA</string>
+    <string name="consumo">CONSUMO</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
